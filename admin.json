@@ -1,16 +1,16 @@
 {
   "prefix": "!",
   "adminUIDs": [
-   "your uid"
+   "100035994888032"
   ],
   "moderatorUIDs": [
-    "your uid",
+    "100035994888032",
     "",
     ""
   ],
-  "botName": "bot name",
-  "ownerName": "Your name",
-  "facebookLink": "fb link",
+  "botName": "Rob(er)ot",
+  "ownerName": "Robert Aaron Mantac",
+  "facebookLink": "https://www.facebook.com/robertaaron.mantac?mibextid=ZbWKwL",
   "resend": false,
   "notilogs": true,
   "appstate": "./appstate.json",
@@ -18,8 +18,8 @@
   "restartTime": 50,
   "FCA": "hut-chat-api",
   "loginpanel": {
-    "user": "your username in dashboard",
-    "password": "password your dashboard",
+    "user": "MissPetrichor",
+    "password": "donyi112233",
     "passcode": "12345"
   }
 }
